@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVP Project</string>
+    <string name="error_loading_posts_try_again_later">Error loading posts. Try again later.</string>
+</resources>
